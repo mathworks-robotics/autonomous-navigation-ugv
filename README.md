@@ -1,7 +1,7 @@
 # Autonomous Navigation for Mobile Robots and UGV
 <!-- This is the "Title of the contribution" that was approved during the Community Contribution Review Process --> 
 
-[![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/####-file-exchange-title)  
+[![View Autonomous Navigation for Mobile Robots and UGV on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/95998-autonomous-navigation-for-mobile-robots-and-ugv) 
 <!-- Add this icon to the README if this repo also appears on File Exchange via the "Connect to GitHub" feature --> 
 
 This GitHub&reg; repository contains MATLAB&reg; and Simulink&reg; examples for developing autonomous navigation software stacks for mobile robots and unmanned ground vehicles (UGV). The examples contained in this submission demonstrate how to interact with ROS-enabled robots and equivalent simulations to design and test a software stack for autonomous navigation of a Turtlebot3.
