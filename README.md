@@ -22,16 +22,21 @@ Topics covered in this collection of scripts and models include:
 * Generate Path Between Two Locations Using a PRM Planner
 * Simulate Path Planning and Following
 * Test Path Planner + Follower in ROS Robot 
-* Interpolate Smooth Paths from Critical Navigation Waypoints
-* Simulate Smooth Path Navigation
-* Navigate Environment Using a Polynomial Trajectory
-* Navigate Environment Using a Trapezoidal Velocity Trajectory
 * Simulate Obstacle Avoidance Using VFH Controller
 * Test Obstacle Avoidance on ROS Robot
 * Simulate Complete Path Navigation Stack
 * Test Complete Path Navigation Stack in ROS Robot
 * Simulate Path Re-Planning Scheduler Using Stateflow&reg;
 * Test Re-Planning Scheduler in ROS Robot
+## Trajectory Generation
+* Interpolate Smooth Paths from Critical Navigation Waypoints
+* Simulate Smooth Path Navigation
+* Navigate Environment Using a Polynomial Trajectory
+* Navigate Environment Using a Trapezoidal Velocity Trajectory
+## Localization and SLAM
+* Design and test SLAM in Robots powered by ROS
+* Generate Custom SLAM ROS Nodes
+
 
 
 To learn more about the MATLAB/Simulink toolboxes used in this submission, visit the following documentation pages:
